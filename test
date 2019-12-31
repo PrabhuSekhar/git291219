@@ -3,5 +3,11 @@ First Line
 Second Lin
 Third Line
 Fourth Line
+<<<<<<< HEAD
 Fifth Line
 Sixth Line
+||||||| merged common ancestors
+5th Line
+=======
+FifthLine
+>>>>>>> dev
